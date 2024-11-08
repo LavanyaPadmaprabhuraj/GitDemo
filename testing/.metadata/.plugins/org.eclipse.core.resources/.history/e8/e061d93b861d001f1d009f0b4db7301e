@@ -1,0 +1,15 @@
+import java.util.HashMap;
+
+public class occuranceWords {
+
+	public static void main(String[] args) {
+		String s1= "Hello hi hello hi lavs hello lavs hi Hi Hello";
+        HashMap<String,Integer>hashmap=new HashMap();
+		String []s2=s1.split(" ");
+		for(String S: s2)
+		{
+			Integer integer=hashmap.get(s2);
+		}
+	}
+
+}

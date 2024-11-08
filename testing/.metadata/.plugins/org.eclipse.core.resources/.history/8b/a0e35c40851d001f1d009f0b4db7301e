@@ -1,0 +1,9 @@
+
+public class occuranceWords {
+
+	public static void main(String[] args) {
+		String []s1= {"Hello hi hello hi lavs hello lavs hi Hi Hello"};
+
+	}
+
+}
